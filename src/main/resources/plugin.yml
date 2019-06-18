@@ -1,0 +1,5 @@
+name: SpeedUHC
+version: 1.0
+author: devcode
+load: STARTUP
+main: me.devcode.uhc.SpeedUHC

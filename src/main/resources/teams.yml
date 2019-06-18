@@ -1,0 +1,19 @@
+Teams.Default:
+- Red;&c;2;14
+- Blue;&1;2;11
+- Green;&2;2;5
+- Yellow;&e;2;4
+- White;&f;2;0
+- Orange;&6;2;1
+- Black;&0;2;15
+- LightBlue;&9;2;3
+- Red2;&c;2;14
+- Blue2;&1;2;11
+- Green2;&2;2;5
+- Yellow2;&e;2;5
+- White2;&f;2;4
+- Orange2;&6;2;0
+- Black2;&0;2;1
+- LightBlue2;&9;2;3
+Teams.MaxSize:
+- 2
